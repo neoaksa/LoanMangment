@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/googledrive/gvsu/book/CIS500/homework4-java/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/googledrive/gvsu/book/CIS500/homework4-java/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/googledrive/gvsu/book/CIS500/homework4-java/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="D:/googledrive/gvsu/book/CIS500/homework4-java/lib/jackcess-2.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/googledrive/gvsu/book/CIS500/homework4-java/lib/ucanaccess-4.0.2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Neo_a/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar" sourcepath="C:/Users/Neo_a/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
